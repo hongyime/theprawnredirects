@@ -14,3 +14,7 @@ This project has no application functions, database, polling or scheduled work.
 Keep the native Vercel redirect configuration; do not add a runtime to serve it.
 The owner-approved homepage removes the need for a public-profile hook exception.
 No hook or global identity scanner changes are needed or authorized.
+
+## Reviewed workspace maintenance - 2026-09-27
+
+Publish the reviewed portability and privacy maintenance from the current default branch, preserving concurrent upstream work and original workspace changes. Validation is limited to the documented offline fixtures and hosted checks; no live data job or deployment command was executed locally.
